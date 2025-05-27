@@ -1,0 +1,1 @@
+# AgriTech-Crop-Disease-Fertilizer-Optimization
